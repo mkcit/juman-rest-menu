@@ -1,0 +1,544 @@
+{
+ "updatedAt": "2026-11-06T21:18:01.702Z",
+ "cats": [
+  {
+   "name": "وجبات الإفطار",
+   "items": [
+    {
+     "name": "جُمان بيستو",
+     "price": 15,
+     "sub": "",
+     "off": false
+    },
+    {
+     "name": "تركي بيستو",
+     "price": 15,
+     "sub": "",
+     "off": false
+    },
+    {
+     "name": "جرين تركي كريم",
+     "price": 15,
+     "sub": "",
+     "off": false
+    },
+    {
+     "name": "كورن كريمي",
+     "price": 15,
+     "sub": "",
+     "off": false
+    }
+   ]
+  },
+  {
+   "name": "مشروبات ساخنة",
+   "items": [
+    {
+     "name": "قهوة تركية",
+     "price": 10,
+     "sub": "",
+     "off": false
+    },
+    {
+     "name": "قهوة عادي",
+     "price": 7,
+     "sub": "",
+     "off": false
+    },
+    {
+     "name": "قهوة دبل",
+     "price": 10,
+     "sub": "",
+     "off": false
+    },
+    {
+     "name": "نسكافيه",
+     "price": 8,
+     "sub": "",
+     "off": false
+    },
+    {
+     "name": "كابتشينو",
+     "price": 8,
+     "sub": "",
+     "off": false
+    },
+    {
+     "name": "شاي كرك",
+     "price": 15,
+     "sub": "",
+     "off": false
+    },
+    {
+     "name": "موكا",
+     "price": 20,
+     "sub": "",
+     "off": false
+    },
+    {
+     "name": "هوت شوكلت",
+     "price": 20,
+     "sub": "",
+     "off": false
+    }
+   ]
+  },
+  {
+   "name": "سينابون",
+   "items": [
+    {
+     "name": "سينابون كلاسيك",
+     "price": 12,
+     "sub": "",
+     "off": false
+    },
+    {
+     "name": "سينابون كراميل",
+     "price": 15,
+     "sub": "",
+     "off": false
+    },
+    {
+     "name": "سينابون بلوبيري",
+     "price": 17,
+     "sub": "",
+     "off": false
+    },
+    {
+     "name": "سينابون شوكولاته كلاسيك",
+     "price": 17,
+     "sub": "",
+     "off": false
+    },
+    {
+     "name": "سينابون سيمبل",
+     "price": 8,
+     "sub": "",
+     "off": false
+    }
+   ]
+  },
+  {
+   "name": "بامبوليني",
+   "items": [
+    {
+     "name": "بامبوليني لوتس",
+     "price": 20,
+     "sub": "",
+     "off": false
+    },
+    {
+     "name": "بامبوليني شوكولاته",
+     "price": 20,
+     "sub": "",
+     "off": false
+    },
+    {
+     "name": "بامبوليني كراميل",
+     "price": 20,
+     "sub": "",
+     "off": false
+    },
+    {
+     "name": "بامبوليني بلوبيري",
+     "price": 20,
+     "sub": "",
+     "off": false
+    },
+    {
+     "name": "بامبوليني توفي",
+     "price": 20,
+     "sub": "",
+     "off": false
+    }
+   ]
+  },
+  {
+   "name": "مشروبات باردة",
+   "items": [
+    {
+     "name": "آيس كوفي",
+     "price": 20,
+     "sub": "",
+     "off": false
+    },
+    {
+     "name": "آيس كوفي ماكياتو كراميل",
+     "price": 25,
+     "sub": "",
+     "off": false
+    },
+    {
+     "name": "فرابتشينو كراميل",
+     "price": 25,
+     "sub": "",
+     "off": false
+    },
+    {
+     "name": "سموذي أفوكادو موز بالعسل والمكسرات",
+     "price": 25,
+     "sub": "",
+     "off": false
+    },
+    {
+     "name": "سموذي فينيسيا",
+     "price": 25,
+     "sub": "",
+     "off": false
+    },
+    {
+     "name": "ميلك شيك نوتيلا",
+     "price": 20,
+     "sub": "",
+     "off": false
+    },
+    {
+     "name": "ميلك شيك أوريو",
+     "price": 25,
+     "sub": "",
+     "off": false
+    },
+    {
+     "name": "ميلك شيك لوتس",
+     "price": 25,
+     "sub": "",
+     "off": false
+    },
+    {
+     "name": "ميلك شيك بستاشيو",
+     "price": 25,
+     "sub": "",
+     "off": false
+    },
+    {
+     "name": "ميلك شيك بلوبيري",
+     "price": 25,
+     "sub": "",
+     "off": false
+    },
+    {
+     "name": "مشروب غازي",
+     "price": 8,
+     "sub": "",
+     "off": false
+    },
+    {
+     "name": "ماء بارد",
+     "price": 4,
+     "sub": "",
+     "off": false
+    }
+   ]
+  },
+  {
+   "name": "العصائر الطبيعية",
+   "items": [
+    {
+     "name": "عصير ليمون ونعناع",
+     "price": 12,
+     "sub": "",
+     "off": false
+    },
+    {
+     "name": "عصير مانجا",
+     "price": 12,
+     "sub": "",
+     "off": false
+    },
+    {
+     "name": "عصير جوافة",
+     "price": 12,
+     "sub": "",
+     "off": false
+    },
+    {
+     "name": "عصير برتقال",
+     "price": 12,
+     "sub": "",
+     "off": false
+    },
+    {
+     "name": "عصير أناناس",
+     "price": 12,
+     "sub": "",
+     "off": false
+    },
+    {
+     "name": "كوكتيل",
+     "price": 15,
+     "sub": "",
+     "off": false
+    }
+   ]
+  },
+  {
+   "name": "الكريب",
+   "items": [
+    {
+     "name": "كريب نوتيلا",
+     "price": 25,
+     "sub": "",
+     "off": false
+    },
+    {
+     "name": "كريب لوتس",
+     "price": 25,
+     "sub": "",
+     "off": false
+    },
+    {
+     "name": "كريب مكس",
+     "price": 25,
+     "sub": "",
+     "off": false
+    },
+    {
+     "name": "كريب بستاشيو",
+     "price": 25,
+     "sub": "",
+     "off": false
+    },
+    {
+     "name": "كريب دبي",
+     "price": 35,
+     "sub": "",
+     "off": false
+    }
+   ]
+  },
+  {
+   "name": "وجبات شرقية",
+   "items": [
+    {
+     "name": "الباشا وعساكره",
+     "price": 50,
+     "sub": "مع أرز أبيض",
+     "off": false
+    },
+    {
+     "name": "شيشبرك",
+     "price": 50,
+     "sub": "مع أرز أبيض",
+     "off": false
+    },
+    {
+     "name": "كبة لبنية",
+     "price": 50,
+     "sub": "مع أرز أبيض",
+     "off": false
+    },
+    {
+     "name": "مسخّن فلسطيني — نصف فرخة",
+     "price": 60,
+     "sub": "",
+     "off": false
+    },
+    {
+     "name": "مسخّن — وجبة فردية ربع دجاجة",
+     "price": 30,
+     "sub": "",
+     "off": false
+    }
+   ]
+  },
+  {
+   "name": "وجبات الجمعة",
+   "items": [
+    {
+     "name": "فتة غزاوية — ربع فرخة",
+     "price": 30,
+     "sub": "",
+     "off": false
+    },
+    {
+     "name": "فتة غزاوية — نصف فرخة",
+     "price": 60,
+     "sub": "",
+     "off": false
+    },
+    {
+     "name": "مفتول",
+     "price": 60,
+     "sub": "وجبة لشخصين",
+     "off": false
+    },
+    {
+     "name": "كبسة",
+     "price": 70,
+     "sub": "دجاجة كاملة مع الدقوس",
+     "off": false
+    }
+   ]
+  },
+  {
+   "name": "وجبات غربية",
+   "items": [
+    {
+     "name": "كساديا",
+     "price": 45,
+     "sub": "صدر دجاج · ذرة · فلفل رومي · بصل",
+     "off": false
+    },
+    {
+     "name": "وجبة جُمان",
+     "price": 55,
+     "sub": "صدر دجاج بالأعشاب الإيطالية، مشروم، صوص أبيض",
+     "off": false
+    },
+    {
+     "name": "تشكن برجر",
+     "price": 35,
+     "sub": "",
+     "off": false
+    },
+    {
+     "name": "تشكن كرسبي برجر",
+     "price": 40,
+     "sub": "",
+     "off": false
+    },
+    {
+     "name": "تشكن بيتزا",
+     "price": 35,
+     "sub": "",
+     "off": false
+    },
+    {
+     "name": "ستربس",
+     "price": 40,
+     "sub": "",
+     "off": false
+    },
+    {
+     "name": "تشكن ستروجانوف",
+     "price": 55,
+     "sub": "صدر دجاج · فلفل رومي · بصل · كريمة طبخ · أرز أبيض",
+     "off": false
+    }
+   ]
+  },
+  {
+   "name": "المقبلات والسلطات",
+   "items": [
+    {
+     "name": "سلطة سيزر",
+     "price": 25,
+     "sub": "",
+     "off": false
+    },
+    {
+     "name": "سلطة مقدوس",
+     "price": 25,
+     "sub": "",
+     "off": false
+    },
+    {
+     "name": "سلطة يوناني",
+     "price": 20,
+     "sub": "",
+     "off": false
+    },
+    {
+     "name": "فتوش",
+     "price": 20,
+     "sub": "",
+     "off": false
+    },
+    {
+     "name": "ورق عنب",
+     "price": 20,
+     "sub": "",
+     "off": false
+    },
+    {
+     "name": "فتة يالانجي",
+     "price": 25,
+     "sub": "",
+     "off": false
+    },
+    {
+     "name": "حمّص باللحمة",
+     "price": 15,
+     "sub": "",
+     "off": false
+    },
+    {
+     "name": "خبز بالثوم",
+     "price": 15,
+     "sub": "",
+     "off": false
+    },
+    {
+     "name": "كول سلو",
+     "price": 12,
+     "sub": "",
+     "off": false
+    },
+    {
+     "name": "ذرة بالمايونيز",
+     "price": 10,
+     "sub": "",
+     "off": false
+    },
+    {
+     "name": "مخللات",
+     "price": 5,
+     "sub": "",
+     "off": false
+    }
+   ]
+  },
+  {
+   "name": "الحلويات",
+   "items": [
+    {
+     "name": "حلا جُمان",
+     "price": 25,
+     "sub": "",
+     "off": false
+    },
+    {
+     "name": "تيراميسو",
+     "price": 25,
+     "sub": "",
+     "off": false
+    },
+    {
+     "name": "حلاوة الجبن",
+     "price": 25,
+     "sub": "",
+     "off": false
+    },
+    {
+     "name": "ليالي لبنان",
+     "price": 20,
+     "sub": "",
+     "off": false
+    },
+    {
+     "name": "حلا الشمواه",
+     "price": 15,
+     "sub": "",
+     "off": false
+    },
+    {
+     "name": "تشيز كيك",
+     "price": 15,
+     "sub": "",
+     "off": false
+    }
+   ]
+  },
+  {
+   "name": "مساحة العمل",
+   "items": [
+    {
+     "name": "مساحة العمل — ساعة",
+     "price": 10,
+     "sub": "",
+     "off": false
+    }
+   ]
+  }
+ ]
+}
